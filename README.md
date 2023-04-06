@@ -1,2 +1,1 @@
 # Travel-Diaries
-Travel Blog 
